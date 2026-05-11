@@ -1,3 +1,4 @@
 .env
 ./文档
 ./test
+./.vscode
