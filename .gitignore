@@ -1,4 +1,19 @@
+# Secrets
 .env
-./文档
-./test
-./.vscode
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+
+# Runtime data
+data/
+
+# IDE
+.vscode/
+
+# Test & docs
+test/
+文档/
